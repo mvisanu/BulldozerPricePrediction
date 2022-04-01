@@ -128,4 +128,4 @@ ui-tests/playwright-report
 .vscode
 env/
 .ipynb_checkpoints/
-data/
+
